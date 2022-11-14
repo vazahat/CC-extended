@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CPlayerScriptLib.cpp
+  win32player_vs2017_64bit.vcxproj -> C:\Users\vazah\Desktop\src\win32player\Debug\win32player.exe
