@@ -1,2 +1,21 @@
-﻿  CPlayerScriptLib.cpp
-  win32player_vs2017_64bit.vcxproj -> E:\deksop\Desktops\src\win32player\Release\win32player.exe
+﻿  CPlayer.cpp
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(467,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(783,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(1169,65): warning C4244: 'argument': conversion from 'irr::f32' to 'int', possible loss of data
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(1175,65): warning C4244: 'argument': conversion from 'irr::f32' to 'int', possible loss of data
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(1181,65): warning C4244: 'argument': conversion from 'irr::f32' to 'int', possible loss of data
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(1187,65): warning C4244: 'argument': conversion from 'irr::f32' to 'int', possible loss of data
+C:\Users\vazah\Desktop\6.6 src\src\win32player\CPlayer.cpp(2160,12): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CPlayerScriptLib.cpp
+  registryHelper.cpp
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(741,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(762,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(776,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(792,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(803,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(817,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vazah\Desktop\6.6 src\src\win32player\registryHelper.cpp(828,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  steamsupport.cpp
+  win32player.cpp
+  Generating Code...
+  win32player_vs2017_64bit.vcxproj -> C:\Users\vazah\Desktop\6.6 src\src\win32player\x64\Release\win32player.exe

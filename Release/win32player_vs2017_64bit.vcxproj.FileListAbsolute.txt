@@ -1,1 +1,1 @@
-E:\deksop\Desktops\src\win32player\Release\win32player.exe
+C:\Users\vazah\Desktop\6.6 src\src\win32player\x64\Release\win32player.exe
